@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="98cb061e-8ec1-4d81-98fc-2573dd340cc8" name="tornado_test" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="4567" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="4567" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
